@@ -14,3 +14,13 @@ li {
     background-color: purple;
   }
 }
+.magic {
+  background-color: #99d6ff;
+  font-size: 1em;
+  color: #004d00;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 5px;
+  border-color: #fff;
+  border-style: dotted;
+}
